@@ -2,8 +2,18 @@ package com.devsuperior.bootcamp2.entities;
 
 import java.time.Instant;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "tb_client")
 public class Client {
 	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 	private String name;
 	private String cpf;
@@ -23,11 +33,11 @@ public class Client {
 		this.children = children;
 	}
 
-	public Long getIg() {
+	public Long getId() {
 		return id;
 	}
 
-	public void setIg(Long id) {
+	public void setId(Long id) {
 	}
 
 

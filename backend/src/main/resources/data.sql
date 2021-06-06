@@ -1,0 +1,14 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Antonio Alves', '88546136111', 10000.00, '1957-02-20T00:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bruna Reis Maia', '88546136817', 15000.00, '1995-06-04T00:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Alves', '88546136111', 10000.00, '1957-02-20T00:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Antonio Alves', '88546136111', 10000.00, '1957-02-20T00:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Antonio Alves', '88546136111', 10000.00, '1957-02-20T00:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Antonio Alves', '88546136111', 10000.00, '1957-02-20T00:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Antonio Alves', '88546136111', 10000.00, '1957-02-20T00:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Antonio Alves', '88546136111', 10000.00, '1957-02-20T00:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Antonio Alves', '88546136111', 10000.00, '1957-02-20T00:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Antonio Alves', '88546136111', 10000.00, '1957-02-20T00:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Antonio Alves', '88546136111', 10000.00, '1957-02-20T00:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Antonio Alves', '88546136111', 10000.00, '1957-02-20T00:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Antonio Alves', '88546136111', 10000.00, '1957-02-20T00:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Antonio Alves', '88546136111', 10000.00, '1957-02-20T00:00:00Z', 1);
